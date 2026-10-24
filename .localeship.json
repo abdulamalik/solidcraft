@@ -1,0 +1,6 @@
+{
+  "sourceLocale": "en",
+  "targetLocales": ["fr"],
+  "files": ["assets/locales/{locale}.json"],
+  "doNotTranslate": ["SolidCraft"]
+}
